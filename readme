@@ -1,0 +1,36 @@
+# Keylogger Educacional - Projeto de Demonstração Técnica 🛡️
+
+**AVISO IMPORTANTE**: Este projeto é estritamente para fins educacionais e de pesquisa autorizada. O uso não consentido de keyloggers é ilegal e antiético. Nunca utilize este código em dispositivos sem autorização explícita do proprietário.
+
+## Descrição 📖
+Este é um projeto demonstrativo criado para fins educacionais na área de segurança cibernética. O código tem como objetivo:
+- Demonstrar técnicas básicas de monitoramento de entrada
+- Servir como material de estudo para mecanismos de segurança
+- Ajudar profissionais de TI a entender métodos de ataque para melhor defesa
+
+## Funcionalidades ⚙️
+- Registro de teclas pressionadas
+- Envio periódico de logs por email
+- Configuração de intervalo de relatório
+
+## Propósito Educacional 🎓
+Este projeto foi criado para:
+1. Entender como keyloggers funcionam em nível técnico
+2. Aprender sobre técnicas de prevenção contra malware
+3. Estudar mecanismos de monitoramento de sistema
+4. Desenvolver melhores práticas de segurança ofensiva/defensiva
+5. Conscientizar sobre riscos de softwares maliciosos
+
+## Avisos Legais e Éticos ⚖️
+- 🔴 **NUNCA** use em dispositivos sem consentimento explícito
+- 🔴 **PROIBIDO** utilizar para quaisquer atividades maliciosas
+- 🔴 Mantenha-se dentro da lei local ao usar este código
+- O autor não se responsabiliza por uso indevido deste software
+- Empresas devem usar apenas em ambientes controlados para testes de segurança
+
+
+# Requisitos
+pip install pynput
+
+# Execução (após configuração)
+python keylogger.py
